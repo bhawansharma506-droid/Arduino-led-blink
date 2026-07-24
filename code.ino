@@ -2,7 +2,6 @@ void setup() {
   // put your setup code here, to run once:
   pinMode(13,OUTPUT);// giving output as pin 13
 
-
 }
 
 void loop() {
