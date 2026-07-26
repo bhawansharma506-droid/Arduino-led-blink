@@ -27,5 +27,5 @@ repeatedly using digitalWrite and delay functions.
 - digitalWrite and delay functions
 
 ## Author
-Bhawan Singh
+Bhawan Sharma
 B.Tech Robotics — Semester 1
